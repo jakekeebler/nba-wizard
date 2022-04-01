@@ -18,6 +18,10 @@ Check out the score for today’s games. (pending)
 
 Simplified for the user experience.
 
+## Deployed Page
+
+https://jakekeebler.github.io/nba-wizard/
+
 
 ## Usage
 
